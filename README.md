@@ -23,7 +23,7 @@ B. Εισαγωγή στην γλώσσα Python. Debugging. Libraries. Hello Wo
 Β. Παραδείγματα: Γραμμική άλγεβρα, Γραφικά
 
 #### Εβδομάδα 5. 
-Εφαρμογή: NN/ML
+Εφαρμογή: Neural Networks. Machine Learning
 
 #### Εβδομάδα 6. 
 Εφαρμογή: Hardware.  Πλατφόρμες. Πρωτόκολλα. Βασικό Ι/Ο
