@@ -3,12 +3,12 @@
 # Προγραμματισμός σε Python & Εφαρμογές στη Ναυτική Μηχανολογία 
 
 #### Εβδομάδα 1. 
-A. Εισαγωγή. Η γλώσσα. Τo περιβάλλον Linux. Command line. Python compiler. Ιστοσελίδα μαθήματος. Βιβλία. Editors: Sublime, Spyder.
+A. Εισαγωγή. Η γλώσσα. Τo περιβάλλον Linux. Command line. Python compiler. Ιστοσελίδα μαθήματος. Βιβλία. Editors: Sublime, Spyder
 
-B. Εισαγωγή στην γλώσσα Python. Debugging. Libraries. Hello World. juPyter (on line).
+B. Εισαγωγή στην γλώσσα Python. Debugging. Libraries. Hello World. juPyter (on line)
 
 #### Εβδομάδα 2. 
-Α. Data types. Loops. Control. File I/O.
+Α. Data types. Loops. Control. File I/O
 
 Β. Παραδείγματα.
 
@@ -18,13 +18,13 @@ B. Εισαγωγή στην γλώσσα Python. Debugging. Libraries. Hello Wo
 Β. OOP. Classes
 
 #### Εβδομάδα 4. 
-Α. Βιβλιοθήκες NymPy, SciPy.
+Α. Βιβλιοθήκες NymPy, SciPy. Errors-Exceptions
 
-Β. Παραδείγματα: Γραμμική άλγεβρα, Γραφικά.
+Β. Παραδείγματα: Γραμμική άλγεβρα, Γραφικά
 
 #### Εβδομάδα 5. 
-Εφαρμογή 1: Hardware.  Πλατφόρμες. Πρωτόκολλα. AIN/DIN. Threads.
+Εφαρμογή 1: Hardware.  Πλατφόρμες. Πρωτόκολλα. Βασικό Ι/Ο
 
 #### Εβδομάδα 6. 
-Εφαρμογή 2: NN/ML.
+Εφαρμογή 2: NN/ML
 
