@@ -1,9 +1,10 @@
 
 # Προγραμματισμός σε Python & Εφαρμογές στη Ναυτική Μηχανολογία 
 
+Εισαγωγή [Slides](https://pages.github.com/)
+
 
 #### Εβδομάδα 1. 
-Εισαγωγή [GitHub Pages](https://pages.github.com/)
 
 A. Εισαγωγή. Η γλώσσα. Τo περιβάλλον Linux. Command line. Python compiler. Ιστοσελίδα μαθήματος. Βιβλιογραφία. Editors: Sublime, Spyder
 
