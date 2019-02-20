@@ -1,8 +1,9 @@
-# course_Python
 
 # Προγραμματισμός σε Python & Εφαρμογές στη Ναυτική Μηχανολογία 
 
+
 #### Εβδομάδα 1. 
+Εισαγωγή [GitHub Pages](https://pages.github.com/)
 A. Εισαγωγή. Η γλώσσα. Τo περιβάλλον Linux. Command line. Python compiler. Ιστοσελίδα μαθήματος. Βιβλιογραφία. Editors: Sublime, Spyder
 
 B. Εισαγωγή στην γλώσσα Python. Debugging. Libraries. Hello World. juPyter (on line)
