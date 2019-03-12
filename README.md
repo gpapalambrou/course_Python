@@ -11,7 +11,7 @@ B. Εισαγωγή στην γλώσσα Python. Debugging. Libraries. Hello Wo
 #### Εβδομάδα 2. 
 Α. Data types. Loops. Control. File I/O
 
-Β. Παραδείγματα.
+Β. Παραδείγματα
 
 #### Εβδομάδα 3. 
 Α. Functions. Modules
