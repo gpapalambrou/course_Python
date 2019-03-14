@@ -14,18 +14,19 @@ B. Εισαγωγή στην γλώσσα Python. Debugging. Libraries. Hello Wo
 Β. Παραδείγματα
 
 #### Εβδομάδα 3. 
-Α. Functions. Modules
-
-Β. OOP. Classes
+Functions. Modules
 
 #### Εβδομάδα 4. 
+OOP. Classes
+
+#### Εβδομάδα 5. 
 Α. Βιβλιοθήκες NymPy, SciPy. Errors-Exceptions
 
 Β. Παραδείγματα: Γραμμική άλγεβρα, Γραφικά
 
-#### Εβδομάδα 5. 
-Εφαρμογή: Neural Networks. Machine Learning
 
 #### Εβδομάδα 6. 
+Εφαρμογή: Neural Networks. Machine Learning
+
 Εφαρμογή: Hardware.  Πλατφόρμες. Πρωτόκολλα. Βασικό Ι/Ο
 
