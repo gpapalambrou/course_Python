@@ -23,7 +23,7 @@ OOP. Classes
 A. Παραδείγματα: Μέτρηση και επεξεργασία δεδομένων
 
 
-B. Βιβλιοθήκες NymPy, SciPy. Errors-Exceptions. Παραδείγματα: Γραμμική άλγεβρα, Γραφικά: **Matplotlib**
+B. Βιβλιοθήκες **NymPy, SciPy**. Errors-Exceptions. Παραδείγματα: Γραμμική άλγεβρα, Γραφικά: **Matplotlib**
 
 
 #### Εβδομάδα 6. 
