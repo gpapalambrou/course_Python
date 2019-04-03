@@ -31,6 +31,6 @@ B. Errors-Exceptions.
 Β. Εφαρμογή: Neural Networks. Machine Learning. Εφαρμογή: Hardware.  Πλατφόρμες. Πρωτόκολλα. Βασικό Ι/Ο.
 
 
-**Homework** (υπό προετοιμασία).
+> **Homework** (υπό προετοιμασία).
 
 :+1: Στην κάθε εβδομάδα αντιστοιχούν τα pdf που υπάρχουν στο: /pdfs.  
