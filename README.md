@@ -31,5 +31,5 @@ B. Errors-Exceptions.
 Εφαρμογή: Neural Networks. Machine Learning. Εφαρμογή: Hardware.  Πλατφόρμες. Πρωτόκολλα. Βασικό Ι/Ο.
 
 
-Homework.
+Homework (υπό προετοιμασία).
 
