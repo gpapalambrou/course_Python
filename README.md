@@ -4,7 +4,7 @@
 
 #### Εβδομάδα 1. 
 
-A. Εισαγωγή. Η γλώσσα. Τo περιβάλλον Linux. Command line. Python compiler. Ιστοσελίδα μαθήματος. Βιβλιογραφία. Editors: Sublime, Spyder
+A. Εισαγωγή. Η γλώσσα. Τo περιβάλλον Linux. Command line. Python compiler. Ιστοσελίδα μαθήματος. Βιβλιογραφία. Editors: Sublime, Spyder, PyCharm
 
 B. Εισαγωγή στην γλώσσα Python. Debugging. Libraries. Hello World. juPyter (on line)
 
