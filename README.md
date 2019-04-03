@@ -28,5 +28,6 @@ B. Errors-Exceptions.
 #### Εβδομάδα 6. 
 Βιβλιοθήκες **NymPy, SciPy**. Γραφικά: **Matplotlib**. 
 
-Εφαρμογή: Neural Networks. Machine Learning. Εφαρμογή: Hardware.  Πλατφόρμες. Πρωτόκολλα. Βασικό Ι/Ο
+Εφαρμογή: Neural Networks. Machine Learning. Εφαρμογή: Hardware.  Πλατφόρμες. Πρωτόκολλα. Βασικό Ι/Ο.
+Homework.
 
