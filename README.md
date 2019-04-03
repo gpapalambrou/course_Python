@@ -29,5 +29,7 @@ B. Errors-Exceptions.
 Βιβλιοθήκες **NymPy, SciPy**. Γραφικά: **Matplotlib**. 
 
 Εφαρμογή: Neural Networks. Machine Learning. Εφαρμογή: Hardware.  Πλατφόρμες. Πρωτόκολλα. Βασικό Ι/Ο.
+
+
 Homework.
 
