@@ -22,13 +22,13 @@ OOP. Classes
 #### Εβδομάδα 5. 
 A. Παραδείγματα: Μέτρηση και επεξεργασία δεδομένων
 
-B. Errors-Exceptions. 
+B. Errors-Exceptions
 
 
 #### Εβδομάδα 6. 
-Α. Μαθηματικά: **NymPy, SciPy**. Γραφικά: **Matplotlib**. 
+Α. Μαθηματικά: **NymPy, SciPy**. Γραφικά: **Matplotlib**
 
-Β. Εφαρμογή: Neural Networks. Machine Learning. Εφαρμογή: Hardware.  Πλατφόρμες. Πρωτόκολλα. Βασικό Ι/Ο.
+Β. Εφαρμογή: Neural Networks. Machine Learning. Εφαρμογή: Hardware.  Πλατφόρμες. Πρωτόκολλα. Βασικό Ι/Ο
 
 
 > **Homework** (υπό προετοιμασία).
