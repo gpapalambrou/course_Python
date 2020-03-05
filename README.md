@@ -38,4 +38,6 @@ B. Errors-Exceptions
 
 > Homework 2020:
 
-:+1: Στην κάθε εβδομάδα αντιστοιχούν τα pdf που υπάρχουν στο: /pdfs.  
+:+1: Στην κάθε εβδομάδα αντιστοιχούν τα pdf που υπάρχουν στο: /pdfs.
+
+Προτεινόμενο σύγγραμμα: Mark Lutz, Learbing Python, O'Reily
