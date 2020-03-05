@@ -36,6 +36,6 @@ B. Errors-Exceptions
 Β. Εφαρμογή: Neural Networks. Machine Learning. Εφαρμογή: Hardware.  Πλατφόρμες. Πρωτόκολλα. Βασικό Ι/Ο
 
 
-> Homework 2019 - Αναρτήθηκε (12/4/2019)
+> Homework 2020:
 
 :+1: Στην κάθε εβδομάδα αντιστοιχούν τα pdf που υπάρχουν στο: /pdfs.  
