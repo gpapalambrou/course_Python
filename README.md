@@ -19,7 +19,7 @@ B. Εισαγωγή στην γλώσσα Python. Debugging. Libraries. Hello Wo
 Β. Παραδείγματα
 
 #### Εβδομάδα 3. 
-Functions. Modules
+Functions. Modules. Περιβάλλον Jupyter 
 
 #### Εβδομάδα 4. 
 OOP. Classes
