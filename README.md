@@ -26,7 +26,7 @@ OOP. Classes
 
 #### Εβδομάδα 5. 
 A. Errors-Exceptions
-B. Γραφικά: **Matplotlib**
+B. Γραφικά: **Matplotlib**. Μελέτη Matplotlib: notebooks  (py_datascience_matplot.tar.xz) στο /codes
 
 #### Εβδομάδα 6. 
 Α. Μαθηματικά: **NymPy, SciPy**.
