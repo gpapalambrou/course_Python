@@ -25,13 +25,11 @@ Functions. Modules. Περιβάλλον Jupyter
 OOP. Classes
 
 #### Εβδομάδα 5. 
-A. Παραδείγματα: Μέτρηση και επεξεργασία δεδομένων
-
-B. Errors-Exceptions
-
+A. Errors-Exceptions
+B. Γραφικά: **Matplotlib**
 
 #### Εβδομάδα 6. 
-Α. Μαθηματικά: **NymPy, SciPy**. Γραφικά: **Matplotlib**
+Α. Μαθηματικά: **NymPy, SciPy**.
 
 Β. Εφαρμογή: Neural Networks. Machine Learning. Εφαρμογή: Hardware.  Πλατφόρμες. Πρωτόκολλα. Βασικό Ι/Ο
 
