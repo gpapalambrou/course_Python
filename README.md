@@ -36,6 +36,6 @@ B. Γραφικά: **Matplotlib**. Μελέτη Matplotlib: notebooks  (py_datas
 
 > Homework 2020:
 
-:+1: Στην κάθε εβδομάδα αντιστοιχούν τα pdf που υπάρχουν στο: /pdfs.
+:+1: Στην κάθε εβδομάδα αντιστοιχούν τα pdfs & videos που υπάρχουν στο: /pdfs καθώς και τα py & notebooks (ipynb) που υπάρχουν στο /codes.
 
 Προτεινόμενο σύγγραμμα: Mark Lutz, **Learning Python**, O'Reily
