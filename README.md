@@ -34,7 +34,7 @@ B. Γραφικά: **Matplotlib**. Μελέτη Matplotlib: notebooks  (py_datas
 Β. Εφαρμογή: Neural Networks. Machine Learning. Εφαρμογή: Hardware.  Πλατφόρμες. Πρωτόκολλα. Βασικό Ι/Ο
 
 
-> Homework 2020:
+> Homework 2020: ΥΠΟ ΔΙΑΜΟΡΦΩΣΗ
 
 :+1: Στην κάθε εβδομάδα αντιστοιχούν τα pdfs & videos που υπάρχουν στο: /pdfs καθώς και τα py & notebooks (ipynb) που υπάρχουν στο /codes.
 
