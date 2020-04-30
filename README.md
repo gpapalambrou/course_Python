@@ -26,10 +26,10 @@ OOP. Classes
 
 #### Εβδομάδα 5. 
 A. Errors-Exceptions
-B. Γραφικά: **Matplotlib**. Μελέτη notebooks στο /codes/py_datascience_matplotlib
+B. Γραφικά: Matplotlib. Μελέτη notebooks στο /codes/py_datascience_matplotlib
 
 #### Εβδομάδα 6. 
-Α. Μαθηματικά: **NymPy, SciPy**. Μελέτη notebooks στο /codes/py_datascience_numpy
+Α. Μαθηματικά: NymPy, SciPy. Μελέτη notebooks στο /codes/py_datascience_numpy
 
 Β. Εφαρμογή: Neural Networks. Machine Learning. Εφαρμογή: Hardware.  Πλατφόρμες. Πρωτόκολλα. Βασικό Ι/Ο
 
