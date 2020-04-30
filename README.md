@@ -9,9 +9,9 @@
 
 #### Εβδομάδα 1. 
 
-A. Εισαγωγή. Η γλώσσα. Τo περιβάλλον Linux. Command line. Python compiler. Ιστοσελίδα μαθήματος. Βιβλιογραφία. Editors: Sublime, Spyder, PyCharm
+A. Εισαγωγή. Η γλώσσα. Τo περιβάλλον Linux. Command line. Python compiler. Ιστοσελίδα μαθήματος. Βιβλιογραφία. Editors: Sublime, Spyder, PyCharm. Περιβάλλον notebook: Jupyter 
 
-B. Εισαγωγή στην γλώσσα Python. Debugging. Libraries. Hello World. juPyter (on line)
+B. Εισαγωγή στην γλώσσα Python. Debugging. Libraries. Hello World.
 
 #### Εβδομάδα 2. 
 Α. Data types. Loops. Control. File I/O
@@ -19,7 +19,7 @@ B. Εισαγωγή στην γλώσσα Python. Debugging. Libraries. Hello Wo
 Β. Παραδείγματα
 
 #### Εβδομάδα 3. 
-Functions. Modules. Περιβάλλον Jupyter 
+Functions. Modules. 
 
 #### Εβδομάδα 4. 
 OOP. Classes
